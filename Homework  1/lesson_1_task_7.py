@@ -7,7 +7,7 @@ def two ():
 #two()
 
 def three ():
-    print("3")
+    print("3", end='')
 #three()
 
 def four ():
@@ -15,7 +15,7 @@ def four ():
 #four()
 
 def five ():
-    print("5")
+    print("5",  end='')
 #five()
 
 def six ():
@@ -27,7 +27,7 @@ def seven ():
 #seven()
 
 def eight ():
-    print("8")
+    print("8", end= '')
 #eight()
 
 def nine ():
@@ -35,11 +35,17 @@ def nine ():
 #nine()
 
 def zero ():
-    print("0")
+    print("0", end='')
 #zero()
     
-e=8 
-f=5
-t=3   
-z=0   
-print(e,e,z,z,f,f,f,t,f,t,f)
+eight ()
+eight ()
+zero ()
+zero ()
+five ()
+five ()
+five ()   
+three () 
+five ()
+three ()
+five ()
