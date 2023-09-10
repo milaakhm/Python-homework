@@ -1,2 +1,3 @@
 my_age = 49
-print ("мне", + my_age+3)
+my_age = my_age + 3
+print ("мне", + my_age)
